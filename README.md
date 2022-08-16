@@ -15,8 +15,4 @@ Skills: SQL  / Power BI / Python / NumPy / Pandas / R / HTML / CSS / JS / DJANGO
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muradmuzaffar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muradmuzaffar&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muradmuzaffar) 
