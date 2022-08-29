@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murad Muzaffar</h1>
-<h3 align="center">Economy Student / Fierce Data Enthusiast / Amateur Web Devfrom India</h3>
+<h3 align="center">Economy Student / Fierce Data Enthusiast / Amateur Web Dev from Baku</h3>
 
 - 🌱 I’m currently learning **NLP , Statistics , Economy**
 
