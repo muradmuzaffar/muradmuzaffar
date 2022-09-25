@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Murad Muzaffar</h1>
 <h3 align="center">Economy Student / Fierce Data Enthusiast / Amateur Web Dev from Baku</h3>
 
+![](https://komarev.com/ghpvc/?username=muradmuzaffar)
+
 - 🌱 I’m currently learning **NLP , Statistics , Economy**
 
 - 👯 I’m looking to collaborate on **open-source data and web projects**
