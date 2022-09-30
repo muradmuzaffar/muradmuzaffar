@@ -21,6 +21,8 @@
 <a href="https://kaggle.com/ernestoguavera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ernestoguavera" height="30" width="40" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=muradmuzaffar)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muradmuzaffar&show_icons=true&locale=en&layout=compact" alt="muradmuzaffar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muradmuzaffar&show_icons=true&locale=en" alt="muradmuzaffar" /></p>
