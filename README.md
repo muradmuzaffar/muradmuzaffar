@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murad Muzaffar</h1>
-<h3 align="center">Economy Student / Fierce Data Enthusiast / Amateur Software Devfrom India</h3>
+<h3 align="center">Economy Student / Fierce Data Enthusiast / Amateur Software Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Statistics, Machine Learning and Deep Learning<br>📫 How to reach me **muradmuzaffar190@gmail.com**
